@@ -2,7 +2,7 @@
 
 An end-to-end **Business Intelligence project** built in **Power BI**, analyzing 1,000+ transactions from Ferns N Petals (FNP) to uncover revenue trends, customer behavior, and operational efficiency across occasions, categories, products, and geographies.
 
-(![Dashboard](images/dashboard.png))
+![Dashboard](dashboard.png)
 
 ---
 
